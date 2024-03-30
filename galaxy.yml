@@ -1,0 +1,21 @@
+namespace: jpmens
+name: dns
+version: 1.0.0
+readme: README.md
+authors:
+- Jan-Piet Mens <jp@mens.de>
+description: a small collection of DNS-related tools
+license:
+- GPL-2.0-or-later
+tags: [ dns, catz, filter ]
+dependencies: {}
+repository: https://github.com/jpmens/ansible-collection-jpmens-dns
+documentation: https://github.com/jpmens/ansible-collection-jpmens-dns
+homepage: https://github.com/jpmens/ansible-collection-jpmens-dns
+issues: https://github.com/jpmens/ansible-collection-jpmens-dns/issues
+build_ignore:
+ - "_jp_upload.sh"
+ - "*.gz"
+ - env.v3
+ - run.sh
+

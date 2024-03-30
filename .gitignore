@@ -1,0 +1,5 @@
+_jp_upload.sh
+env.v3
+*.tar.gz
+run.sh
+__pycache__
